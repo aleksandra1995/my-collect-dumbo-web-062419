@@ -6,5 +6,5 @@ def my_collect(array)
  empty << array
 i = i + 1
 end 
-return empty
+empty
 end 
