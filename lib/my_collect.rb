@@ -1,9 +1,7 @@
 def my_collect(array)
   empty = []
   
-empty <<  yield (|x| x.capitalize)
-  
 
 end 
-return empty 
+return empty
 end 
